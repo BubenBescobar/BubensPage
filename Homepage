@@ -1,29 +1,7 @@
 <!DOCTYPE html>
 <head>
   <title></title>
-  <style>
-    body {
-      background-color: #0d0d0d;
-      font-family: Avantgarde, sans-serif;
-      color: #d9d9d9;
-    }
-    .text-box-one {
-      color: white
-    }
-    .emphasize {
-      color: #00cc99;
-    }
-    .button {
-   background-color: #00cc99; 
-    }
-    .button:hover {
-   background-color: #d9d9d9;
-   color: #00cc99;
-    }
-    .body {
-    color: white;
-    }
-  </style>
+  <link rel="stylesheet" type:"text/css" href="">
 </head>
 <body>
   <h1 style="text-align: center"><first class="emphasize">Welcome</first> to Buben's Page</h1>
