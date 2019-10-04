@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
   <title></title>
-  <link rel="stylesheet" type:"text/css" href="">
+  <link rel="stylesheet" type:"text/css" href="main.css">
 </head>
 <body>
   <h1 style="text-align: center"><first class="emphasize">Welcome</first> to Buben's Page</h1>
