@@ -1,31 +1,18 @@
- .button {
-   background-color: #00cc99; 
-}
-.button:hover {
-  background-color: #d9d9d9;
-  color: #00cc99;
-}
-.body {
-  color: white;
-}
 body {
       background-color: #0d0d0d;
       font-family: Avantgarde, sans-serif;
       color: #d9d9d9;
-    }
-    .text-box-one {
+	}
+.text-box-one {
       color: white
-    }
-    .emphasize {
+	}
+.emphasize {
       color: #00cc99;
-    }
-    .button {
+	}
+.button {
    background-color: #00cc99; 
-    }
-    .button:hover {
+	}
+.button:hover {
    background-color: #d9d9d9;
    color: #00cc99;
-    }
-    .body {
-    color: white;
-    }
+	}
